@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31220.234
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextAnalyzer", "TextAnalizer\TextAnalyzer.csproj", "{5EFF6517-F208-4243-B961-1401D9F726F6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextAnalyzer.Tests", "TextAnalyzer.Tests\TextAnalyzer.Tests.csproj", "{17210598-DCEE-4A8C-9290-CD0D3CBCA68F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EFF6517-F208-4243-B961-1401D9F726F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFF6517-F208-4243-B961-1401D9F726F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFF6517-F208-4243-B961-1401D9F726F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFF6517-F208-4243-B961-1401D9F726F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17210598-DCEE-4A8C-9290-CD0D3CBCA68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17210598-DCEE-4A8C-9290-CD0D3CBCA68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17210598-DCEE-4A8C-9290-CD0D3CBCA68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17210598-DCEE-4A8C-9290-CD0D3CBCA68F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E662D9D5-9C24-4C46-8DBF-A66D9955D826}
+	EndGlobalSection
+EndGlobal
